@@ -1,9 +1,12 @@
 <!-- ══════════════════════════════════════════════════════════════════
-     YUG PATEL · DARK CYBER PORTFOLIO v2
-     Direction: Superdesign "Cyber/Technical" + ui-ux-pro-max OLED dark
-     + premium-frontend-ui hero architecture + brutalist telemetry accents
+     YUG PATEL · DARK CYBER PORTFOLIO v3 — FULL HUD EDITION
+     Direction: Superdesign draft "CyberHUD Profile Section Headers"
+       (project 420732f3, draft 6feb933f) + ui-ux-pro-max OLED dark
+       + premium-frontend-ui hero architecture + brutalist telemetry accents
+       + GSAP timeline thinking → SMIL (staggered begin offsets, sweeps)
      Render-safe policy (verified 2026-07-13):
-       · local animated SVG (assets/) — served by GitHub, cannot 404
+       · ALL section headers/dividers = local animated SVGs in assets/
+         — served by GitHub itself, cannot 404
        · readme-typing-svg.demolab.com — HTTP 200 ✓
        · capsule-render.vercel.app — HTTP 200 ✓
        · img.shields.io — HTTP 200 ✓
@@ -25,23 +28,19 @@
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=0B0E1A"/>&nbsp;<img src="https://img.shields.io/badge/MODE-AI--FIRST-7C3AED?style=for-the-badge&labelColor=0B0E1A"/>&nbsp;<img src="https://img.shields.io/badge/COLLAB-OPEN-4D8AFF?style=for-the-badge&labelColor=0B0E1A"/>
 
-<a href="mailto:yugkpatel872006@gmail.com"><img src="https://img.shields.io/badge/✉_Email-yugkpatel872006@gmail.com-EA4335?style=flat-square&labelColor=0B0E1A"/></a>
-&nbsp;
-<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/⌁_Repositories-browse_the_work-00E5FF?style=flat-square&labelColor=0B0E1A"/></a>
-
 </div>
 
 <br/>
 
-> ```text
-> SYS.01 // IDENTITY ─────────────────────────────────────────────
-> ```
+<!-- ─── SYS.01 · IDENTITY ─────────────────────────────────────────── -->
 
-## ⌁ About
+<img src="assets/section-identity.svg" width="100%" alt="SYS.01 — About"/>
 
 <table>
 <tr>
 <td width="55%" valign="top">
+
+<br/>
 
 **Yug Patel** — Computer Science student at **Arizona State University** and **Technical Consultant at ASU**, solving real technical problems for real people every week.
 
@@ -66,13 +65,14 @@ principle: >
 </tr>
 </table>
 
-> ```text
-> SYS.02 // ACTIVE.PROCESSES ─────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Currently Building
+<!-- ─── SYS.02 · ACTIVE.PROCESSES ─────────────────────────────────── -->
+
+<img src="assets/section-build.svg" width="100%" alt="SYS.02 — Currently Building"/>
 
 <div align="center">
+<br/>
 
 <img src="https://img.shields.io/badge/⚽_STAT_UPDATES-live_match_dashboard-00E5FF?style=for-the-badge&labelColor=0B0E1A"/>
 <img src="https://img.shields.io/badge/🤖_LOCAL_AI-assistant_experiments-7C3AED?style=for-the-badge&labelColor=0B0E1A"/>
@@ -80,11 +80,11 @@ principle: >
 
 </div>
 
-> ```text
-> SYS.03 // PROJECT.INDEX ────────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Featured Projects
+<!-- ─── SYS.03 · PROJECT.INDEX ────────────────────────────────────── -->
+
+<img src="assets/section-projects.svg" width="100%" alt="SYS.03 — Featured Projects"/>
 
 <table>
 <tr>
@@ -120,11 +120,11 @@ principle: >
 </tr>
 </table>
 
-> ```text
-> SYS.04 // AGENT.LOOP ───────────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Agentic Dev Stack
+<!-- ─── SYS.04 · AGENT.LOOP ───────────────────────────────────────── -->
+
+<img src="assets/section-stack.svg" width="100%" alt="SYS.04 — Agentic Dev Stack"/>
 
 <sub>Tools and workflows I **use or explore** in my AI-assisted development loop — not tools I built.</sub>
 
@@ -140,11 +140,11 @@ principle: >
 | `LOG` | **CLAUDE.md decision log** | Wrap-ups, decisions, and next steps per repo |
 | `DISCOVER` | **find-skills** | Skill discovery & tool selection |
 
-> ```text
-> SYS.05 // STACK.MANIFEST ───────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Tech Stack
+<!-- ─── SYS.05 · STACK.MANIFEST ───────────────────────────────────── -->
+
+<img src="assets/section-tech.svg" width="100%" alt="SYS.05 — Tech Stack"/>
 
 | Layer | Tools |
 |:---|:---|
@@ -152,13 +152,14 @@ principle: >
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-4D8AFF?style=flat-square&labelColor=0B0E1A"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> |
 
-> ```text
-> SYS.06 // UPGRADE.QUEUE ────────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Learning Next
+<!-- ─── SYS.06 · UPGRADE.QUEUE ────────────────────────────────────── -->
+
+<img src="assets/section-learning.svg" width="100%" alt="SYS.06 — Learning Next"/>
 
 <div align="center">
+<br/>
 
 <img src="https://img.shields.io/badge/Applied-AI%2FML-00E5FF?style=for-the-badge&labelColor=0B0E1A"/>
 <img src="https://img.shields.io/badge/Advanced-TypeScript-3178C6?style=for-the-badge&labelColor=0B0E1A"/>
@@ -167,11 +168,11 @@ principle: >
 
 </div>
 
-> ```text
-> SYS.07 // TELEMETRY ────────────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Activity
+<!-- ─── SYS.07 · TELEMETRY ────────────────────────────────────────── -->
+
+<img src="assets/section-activity.svg" width="100%" alt="SYS.07 — Activity"/>
 
 <table>
 <tr>
@@ -189,19 +190,22 @@ principle: >
 <a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A"/></a>
 </div>
 
-> ```text
-> SYS.08 // UPLINK ───────────────────────────────────────────────
-> ```
+<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
 
-## ⌁ Connect
+<!-- ─── SYS.08 · UPLINK ───────────────────────────────────────────── -->
+
+<img src="assets/section-connect.svg" width="100%" alt="SYS.08 — Connect"/>
 
 <div align="center">
+<br/>
 
 **Let's build something together** — AI tools, web apps, or automation ideas welcome.
 
-<a href="mailto:yugkpatel872006@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-yugkpatel872006@gmail.com-EA4335?style=for-the-badge&labelColor=0B0E1A"/></a>
+<a href="mailto:yugkpatel872006@gmail.com"><img src="https://img.shields.io/badge/✉_Email-reach_out-EA4335?style=for-the-badge&labelColor=0B0E1A"/></a>
 &nbsp;
-<a href="https://github.com/YugPatel8-git"><img src="https://img.shields.io/badge/⭐_GITHUB-YugPatel8--git-7C3AED?style=for-the-badge&labelColor=0B0E1A"/></a>
+<a href="https://github.com/YugPatel8-git"><img src="https://img.shields.io/badge/⭐_GitHub-YugPatel8--git-7C3AED?style=for-the-badge&labelColor=0B0E1A"/></a>
+&nbsp;
+<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/⌁_Repositories-browse-4D8AFF?style=for-the-badge&labelColor=0B0E1A"/></a>
 
 <br/><br/>
 
