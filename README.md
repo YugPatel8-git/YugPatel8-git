@@ -1,143 +1,169 @@
+<!-- ═══════════════ YUG PATEL · PORTFOLIO ═══════════════ -->
+
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Yug%20Patel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20Arizona%20State%20University&descSize=17&descColor=00E5FF&descAlignY=57" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,30:4D8AFF,70:7C3AED,100:C84DFF&height=170&section=header&text=YUG%20PATEL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<!-- Animated typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=CS+Student+at+Arizona+State+University;Technical+Consultant+at+ASU;Building+AI+tools%2C+dashboards+%26+automation)](https://github.com/YugPatel8-git)
+### ✨ Turning ideas into practical software ✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=520&lines=Computer+Science+Student+at+ASU;Technical+Consultant+at+ASU;AI+%7C+Web+%7C+Data+%7C+Automation;Always+building+something+new)](https://github.com/YugPatel8-git)
 
 <br/>
 
-![Focus](https://img.shields.io/badge/Focus-AI_%26_Web_Development-00E5FF?style=for-the-badge&labelColor=1a1b27)
-![Status](https://img.shields.io/badge/Status-Open_to_Collaboration-7C3AED?style=for-the-badge&labelColor=1a1b27)
+<img src="https://img.shields.io/badge/🎓_ASU-Computer_Science-4D8AFF?style=for-the-badge&labelColor=101321"/>
+<img src="https://img.shields.io/badge/🛠️_Role-Technical_Consultant-7C3AED?style=for-the-badge&labelColor=101321"/>
+<img src="https://img.shields.io/badge/🤝_Open_to-Collaboration-00E5FF?style=for-the-badge&labelColor=101321"/>
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+🧠 **AI enthusiast** &nbsp;·&nbsp; 🎨 **Frontend/UI builder** &nbsp;·&nbsp; 📊 **Data-curious** &nbsp;·&nbsp; ⚡ **Automation fan**
 
-## 👨‍💻 About Me
+<br/>
 
-```typescript
-const yug = {
-  education: "B.S. Computer Science @ Arizona State University",
-  role: "Technical Consultant @ ASU",
-  interests: ["AI", "Software Engineering", "Frontend/UI", "Data", "Automation"],
-  motto: "Build things that are actually useful",
-};
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
 
-I'm a Computer Science student at **Arizona State University** and a **Technical Consultant at ASU**, where I help people solve real technical problems every day. I enjoy building practical software — dashboards, automation, and AI-powered tools — with clean, modern interfaces.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🎯 Current Focus
+## 🛠️ Currently Building
 
 <table>
 <tr>
 <td align="center" width="33%">
-<br/>⚽<br/><br/><b>Stat Updates</b><br/><sub>Improving my live soccer<br/>match dashboard</sub><br/><br/>
+<h3>⚽</h3>
+<b>Stat Updates</b>
+<br/><br/>
+<sub>Live soccer match dashboard<br/>with real-time data & analysis</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●_ACTIVE-00E5FF?style=flat-square&labelColor=101321"/>
 </td>
 <td align="center" width="33%">
-<br/>🤖<br/><br/><b>Local AI Assistants</b><br/><sub>Experimenting with<br/>locally-run AI tools</sub><br/><br/>
+<h3>🤖</h3>
+<b>Local AI Assistants</b>
+<br/><br/>
+<sub>Experiments with locally-run<br/>AI for everyday workflows</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●_EXPLORING-C84DFF?style=flat-square&labelColor=101321"/>
 </td>
 <td align="center" width="33%">
-<br/>⚙️<br/><br/><b>Automation</b><br/><sub>Dashboards & scripts that<br/>remove repetitive work</sub><br/><br/>
+<h3>⚙️</h3>
+<b>Automation Tools</b>
+<br/><br/>
+<sub>Dashboards & scripts that<br/>remove repetitive work</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●_ONGOING-4D8AFF?style=flat-square&labelColor=101321"/>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### ⚽ Stat Updates — Live Soccer Match Dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<h3 align="center">⚽ Stat Updates</h3>
 
-> A live-match soccer dashboard built with real football APIs — real-time match data, response caching, team logos, and match analysis in a clean UI.
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
-- 📡 Live data from real football APIs
-- ⚡ Smart response caching for fast loads
-- 📊 Match analysis with team logos and modern design
+<p align="center"><sub>
+Live soccer match dashboard powered by real football APIs<br/><br/>
+📡 Real-time match data &nbsp;·&nbsp; ⚡ Smart caching<br/>
+🎽 Team logos &nbsp;·&nbsp; 📊 Match analysis
+</sub></p>
 
-### 🤖 Local AI Assistant Experiments
+</td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-7C3AED?style=flat-square&labelColor=1a1b27)
+<h3 align="center">🤖 Local AI Experiments</h3>
 
-> Exploring locally-run AI assistants and how they can fit into everyday workflows.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Local_LLMs-C84DFF?style=flat-square&labelColor=101321"/>
+</p>
 
-### ⚙️ Automation & Dashboard Projects
+<p align="center"><sub>
+Locally-run AI assistants applied to real workflows<br/><br/>
+🧪 Hands-on experimentation &nbsp;·&nbsp; 🔒 Local-first<br/>
+💡 Practical use cases over hype
+</sub></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-> Scripts and dashboards that automate repetitive tasks and surface useful data.
+<h3 align="center">⚙️ Automation & Dashboard Projects</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-## 🧰 Tech Stack
+<p align="center"><sub>
+Scripts and dashboards that automate repetitive tasks and surface useful data — built to save time, not to show off
+</sub></p>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚡ Tech Arsenal
 
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 📚 Learning Queue
-
-- 🧠 Applied **AI/ML** and LLM development
-- 🏗️ Advanced **TypeScript** and frontend architecture
-- 🗄️ **Data engineering** fundamentals and API design
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YugPatel8-git&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=00E5FF&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatel8-git&layout=compact&hide_border=true&bg_color=1a1b27&title_color=00E5FF&text_color=c9d1d9" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=YugPatel8-git&hide_border=true&background=1a1b27&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🤝 Connect
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects — especially anything involving **AI, web apps, or automation**.
-
-[![Email](https://img.shields.io/badge/Email-yugkpatel872006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:yugkpatel872006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YugPatel8--git-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/YugPatel8-git)
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,tailwind,nodejs,mysql,git,github,vscode,vercel&perline=7" alt="Tech stack icons"/>
 
 <br/>
 
-*Build useful things. Ship them. Repeat.* ⭐
+<img src="https://img.shields.io/badge/Strongest_with-Next.js_·_TypeScript_·_Tailwind-00E5FF?style=for-the-badge&labelColor=101321"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
+
+## 🧭 Learning Next
+
+<img src="https://img.shields.io/badge/🧠-Applied_AI/ML_&_LLM_development-7C3AED?style=for-the-badge&labelColor=101321"/>
+<br/>
+<img src="https://img.shields.io/badge/🏗️-Advanced_TypeScript_&_frontend_architecture-4D8AFF?style=for-the-badge&labelColor=101321"/>
+<br/>
+<img src="https://img.shields.io/badge/🗄️-Data_engineering_&_API_design-00E5FF?style=for-the-badge&labelColor=101321"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=YugPatel8-git&show_icons=true&hide_border=true&bg_color=101321&title_color=00E5FF&icon_color=C84DFF&text_color=cdd6f4&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatel8-git&layout=compact&hide_border=true&bg_color=101321&title_color=00E5FF&text_color=cdd6f4" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=YugPatel8-git&hide_border=true&background=101321&ring=00E5FF&fire=C84DFF&currStreakLabel=00E5FF&sideLabels=cdd6f4&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatel8-git&bg_color=101321&color=00E5FF&line=7C3AED&point=C84DFF&area=true&area_color=1c2038&hide_border=true&radius=8" width="92%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:C84DFF&height=2" width="70%"/>
+
+## 🤝 Connect
+
+**Let's build something together** — AI tools, web apps, or automation ideas welcome.
+
+<br/>
+
+<a href="mailto:yugkpatel872006@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&labelColor=101321"/>
+</a>
+&nbsp;
+<a href="https://github.com/YugPatel8-git">
+<img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-7C3AED?style=for-the-badge&labelColor=101321"/>
+</a>
+
+<br/><br/>
+
+<sub>💫 <i>Build useful things. Ship them. Repeat.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C84DFF,30:7C3AED,70:4D8AFF,100:00E5FF&height=110&section=footer" width="100%"/>
 
 </div>
