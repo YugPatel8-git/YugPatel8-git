@@ -1,0 +1,10 @@
+<svg width="250" height="30" viewBox="0 0 250 30" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="uplink channels open"><title>uplink channels open</title>
+  <rect x="0.5" y="0.5" width="249" height="29" rx="4" fill="#101530" stroke="#00E5FF" stroke-opacity="0.45"/>
+  <circle cx="16" cy="15" r="4" fill="#22E06C">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/>
+  </circle>
+  <text x="30" y="19" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#00E5FF">UPLINK.CHANNELS: OPEN</text>
+  <rect x="228" y="9" width="7" height="12" fill="#00E5FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>

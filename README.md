@@ -33,7 +33,8 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/hex-strip.svg" width="100%" alt=""/></div>
+
 
 <!-- ─── SYS.01 · IDENTITY ─────────────────────────────────────────── -->
 
@@ -68,7 +69,7 @@ principle: >
 </tr>
 </table>
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.02 · ACTIVE.PROCESSES ─────────────────────────────────── -->
 
@@ -83,7 +84,7 @@ principle: >
 
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.03 · PROJECT.INDEX ────────────────────────────────────── -->
 
@@ -123,7 +124,7 @@ principle: >
 </tr>
 </table>
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.04 · AGENT.LOOP ───────────────────────────────────────── -->
 
@@ -143,7 +144,7 @@ principle: >
 | `LOG` | **CLAUDE.md decision log** | Wrap-ups, decisions, and next steps per repo |
 | `DISCOVER` | **find-skills** | Skill discovery & tool selection |
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.05 · STACK.MANIFEST ───────────────────────────────────── -->
 
@@ -155,7 +156,7 @@ principle: >
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-4D8AFF?style=flat-square&labelColor=0B0E1A" alt="VS Code"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> |
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.06 · UPGRADE.QUEUE ────────────────────────────────────── -->
 
@@ -171,11 +172,16 @@ principle: >
 
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.07 · TELEMETRY ────────────────────────────────────────── -->
 
 <img src="assets/section-activity.svg" width="100%" alt="SYS.07 — Activity"/>
+
+<div align="center">
+<img src="assets/radar-mini.svg" width="84" alt="animated radar sweep"/>
+<br/><sub><code>SCAN: public repos // signal live</code></sub>
+</div>
 
 <table>
 <tr>
@@ -193,11 +199,15 @@ principle: >
 <a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="OPEN PROJECT INDEX repositories"/></a>
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.08 · UPLINK ───────────────────────────────────────────── -->
 
 <img src="assets/section-connect.svg" width="100%" alt="SYS.08 — Connect"/>
+
+<div align="center">
+<img src="assets/chip-link.svg" width="250" alt="uplink channels open"/>
+</div>
 
 <div align="center">
 <br/>

@@ -51,7 +51,7 @@
   <text x="56" y="68" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="#F4F7FF">CONNECT</text>
   <rect x="56" y="76" width="150" height="3" rx="1.5" fill="url(#g)"><animate attributeName="width" values="150;90;150" dur="4s" repeatCount="indefinite"/></rect>
 
-  <text x="846" y="30" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#7C3AED">UPLINK.READY</text>
+  <text x="846" y="30" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#A78BFA">UPLINK.READY</text>
   <circle cx="862" cy="26" r="4" fill="#7C3AED"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></circle>
   <circle cx="862" cy="26" r="7" stroke="#7C3AED" stroke-width="1" fill="none" opacity="0.5">
     <animate attributeName="r" values="5;10" dur="1.5s" repeatCount="indefinite"/>

@@ -1,0 +1,19 @@
+<svg width="900" height="40" viewBox="0 0 900 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label=""><title>decorative hex grid strip</title>
+  <defs>
+    <path id="hx" d="M12 0 L24 6 V18 L12 24 L0 18 V6 Z" stroke="#00E5FF" fill="none" stroke-width="1"/>
+    <linearGradient id="hs" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="20" x2="900" y2="20" stroke="#4D8AFF" stroke-opacity="0.18" stroke-width="1"/>
+  <use href="#hx" x="60" y="8" opacity="0.3"/><use href="#hx" x="138" y="8" opacity="0.14"/><use href="#hx" x="216" y="8" opacity="0.14"/><use href="#hx" x="294" y="8" opacity="0.3"/><use href="#hx" x="372" y="8" opacity="0.14"/><use href="#hx" x="450" y="8" opacity="0.14"/><use href="#hx" x="528" y="8" opacity="0.3"/><use href="#hx" x="606" y="8" opacity="0.14"/><use href="#hx" x="684" y="8" opacity="0.14"/><use href="#hx" x="762" y="8" opacity="0.3"/>
+  <use href="#hx" x="432" y="8" opacity="0.6" stroke="#00E5FF">
+    <animate attributeName="opacity" values="0.25;0.7;0.25" dur="3s" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/>
+  </use>
+  <rect x="-180" y="6" width="180" height="28" fill="url(#hs)">
+    <animate attributeName="x" values="-180;900" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="444" y1="32" x2="444" y2="40" stroke="#00E5FF" stroke-opacity="0.5" stroke-width="1.5"/>
+</svg>
