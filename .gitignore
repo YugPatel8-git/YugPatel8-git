@@ -1,2 +1,4 @@
 
 .superdesign/
+__pycache__/
+*.pyc
