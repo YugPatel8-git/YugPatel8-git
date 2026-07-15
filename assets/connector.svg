@@ -1,40 +1,25 @@
-<svg width="900" height="72" viewBox="0 0 900 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label=""><title>decorative circuit connector</title>
-  <defs>
-    <linearGradient id="cx" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="cg" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2"/></filter>
-  </defs>
-  <!-- vertical spine (plugs into panel above and below) -->
-  <line x1="450" y1="0" x2="450" y2="72" stroke="#00E5FF" stroke-opacity="0.5" stroke-width="1.5"/>
-  <line x1="450" y1="0" x2="450" y2="72" stroke="#00E5FF" stroke-opacity="0.25" stroke-width="4" filter="url(#cg)"/>
-  <!-- branch traces with elbows -->
-  <path d="M450 36 H330 V24 H180" stroke="#4D8AFF" stroke-opacity="0.45" stroke-width="1.2"/>
-  <path d="M450 36 H570 V48 H720" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1.2"/>
-  <path d="M180 24 H96" stroke="url(#cx)" stroke-width="1.2"/>
-  <path d="M720 48 H804" stroke="url(#cx)" stroke-width="1.2"/>
-  <!-- nodes -->
-  <circle cx="450" cy="36" r="4.5" fill="#0B0E1A" stroke="#00E5FF" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="1;0.45;1" dur="3.2s" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="180" cy="24" r="2.5" fill="#4D8AFF" fill-opacity="0.8"/>
-  <circle cx="720" cy="48" r="2.5" fill="#7C3AED" fill-opacity="0.8"/>
-  <rect x="92" y="21" width="6" height="6" transform="rotate(45 95 24)" fill="none" stroke="#4D8AFF" stroke-opacity="0.6" stroke-width="1"/>
-  <rect x="801" y="45" width="6" height="6" transform="rotate(45 804 48)" fill="none" stroke="#7C3AED" stroke-opacity="0.6" stroke-width="1"/>
-  <!-- data packet descending the spine -->
-  <circle r="2.6" fill="#00E5FF">
-    <animateMotion path="M450 0 L450 72" dur="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <!-- packets along branches (staggered, subtle) -->
-  <circle r="1.8" fill="#4D8AFF" opacity="0.9">
-    <animateMotion path="M450 36 H330 V24 H180" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.9;0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="1.8" fill="#7C3AED" opacity="0.9">
-    <animateMotion path="M450 36 H570 V48 H720" dur="3.6s" begin="2.1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.9;0" dur="3.6s" begin="2.1s" repeatCount="indefinite"/>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 56" role="img" aria-labelledby="t d" preserveAspectRatio="xMidYMid meet">
+<title id="t">Data spine junction</title><desc id="d">Circuit bus connecting sections with a traveling data packet.</desc>
+<g stroke="#7C3AED" stroke-width="1" opacity="0.5">
+<path d="M60 10 L60 22 L110 22" fill="none"/>
+<path d="M820 46 L820 34 L770 34" fill="none"/>
+</g>
+<path id="bus" d="M20 28 H360 L380 14 H500 L520 28 H860" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.85"/>
+<path d="M20 28 H360 L380 14 H500 L520 28 H860" fill="none" stroke="#00E5FF" stroke-width="4" opacity="0.08"/>
+<g fill="#101530" stroke="#00E5FF" stroke-width="1.5">
+<rect x="14" y="24" width="8" height="8"/>
+<rect x="858" y="24" width="8" height="8"/>
+</g>
+<rect x="436" y="9" width="10" height="10" fill="#101530" stroke="#4D8AFF" stroke-width="1.5" transform="rotate(45 441 14)"/>
+<circle cx="441" cy="14" r="2" fill="#4D8AFF"><animate attributeName="opacity" values="1;0.25;1" dur="3s" repeatCount="indefinite"/></circle>
+<g stroke="#4D8AFF" stroke-width="1.5" fill="none" opacity="0.8">
+<path d="M110 18 v8 M114 18 v8"/>
+<path d="M770 30 v8 M766 30 v8"/>
+</g>
+<g fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.7">
+<path d="M6 8 h10 M6 8 v10"/>
+<path d="M874 48 h-10 M874 48 v-10"/>
+</g>
+<circle r="3" fill="#00E5FF"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#bus"/></animateMotion></circle>
+<circle r="2" fill="#FF2D95" opacity="0.9"><animateMotion dur="13s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1"><mpath href="#bus"/></animateMotion></circle>
 </svg>

@@ -41,6 +41,7 @@
 <img src="assets/section-identity.svg" width="100%" alt="SYS.01 — About"/>
 
 <div align="center"><img src="assets/illus-monitor.svg" width="76" alt="animated monitor streaming data bars"/></div>
+<div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
 
 
 <table>
@@ -79,14 +80,15 @@ principle: >
 <img src="assets/section-build.svg" width="100%" alt="SYS.02 — Currently Building"/>
 
 <div align="center"><img src="assets/illus-terminal.svg" width="76" alt="animated terminal window with moving code"/></div>
+<div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
 
 
 <div align="center">
 <br/>
 
-<img src="assets/illus-network.svg" width="36" alt="animated network nodes transferring data"/>&nbsp;<img src="https://img.shields.io/badge/⚽_STAT_UPDATES-live_match_dashboard-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="STAT UPDATES live match dashboard"/>
-<img src="assets/illus-ai-bot.svg" width="36" alt="animated AI robot icon"/>&nbsp;<img src="https://img.shields.io/badge/🤖_LOCAL_AI-assistant_experiments-7C3AED?style=for-the-badge&labelColor=0B0E1A" alt="LOCAL AI assistant experiments"/>
-<img src="assets/illus-server.svg" width="36" alt="pulsing server stack"/>&nbsp;<img src="https://img.shields.io/badge/⚙️_AUTOMATION-dashboards_&_scripts-4D8AFF?style=for-the-badge&labelColor=0B0E1A" alt="AUTOMATION dashboards & scripts"/>
+<img src="assets/illus-network.svg" width="36" alt="animated network nodes transferring data"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/⚽_STAT_UPDATES-live_match_dashboard-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="STAT UPDATES live match dashboard"/>
+<img src="assets/illus-ai-bot.svg" width="36" alt="animated AI robot icon"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/🤖_LOCAL_AI-assistant_experiments-7C3AED?style=for-the-badge&labelColor=0B0E1A" alt="LOCAL AI assistant experiments"/>
+<img src="assets/illus-server.svg" width="36" alt="pulsing server stack"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/⚙️_AUTOMATION-dashboards_&_scripts-4D8AFF?style=for-the-badge&labelColor=0B0E1A" alt="AUTOMATION dashboards & scripts"/>
 
 </div>
 
@@ -138,6 +140,7 @@ principle: >
 
 <div align="center">
 <img src="assets/illus-brain.svg" width="76" alt="circuit-board brain with pulsing traces"/>
+<div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
 <br/>
 <img src="assets/illus-shield.svg" width="44" alt="pulsing cybersecurity shield"/>&nbsp;&nbsp;<img src="assets/illus-padlock.svg" width="44" alt="animated padlock"/>&nbsp;&nbsp;<img src="assets/illus-virus.svg" width="44" alt="floating malware nodes"/>&nbsp;&nbsp;<img src="assets/illus-warning.svg" width="44" alt="blinking warning signal"/>
 <br/><sub><code>DEFENSE GRID // agent guardrails: sandbox, review, verify</code></sub>
@@ -165,6 +168,7 @@ principle: >
 <img src="assets/section-tech.svg" width="100%" alt="SYS.05 — Tech Stack"/>
 
 <div align="center"><img src="assets/illus-core.svg" width="76" alt="rotating cyber core with counter-spinning rings"/></div>
+<div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
 
 
 | Layer | Tools |
@@ -213,7 +217,7 @@ principle: >
 
 <br/><br/>
 
-<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="assets/illus-globe.svg" width="36" alt="rotating holographic globe"/>&nbsp;<img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="OPEN PROJECT INDEX repositories"/></a>
+<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="assets/illus-globe.svg" width="36" alt="rotating holographic globe"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="OPEN PROJECT INDEX repositories"/></a>
 </div>
 
 <div align="center"><img src="assets/connector.svg" width="100%" alt=""/></div>

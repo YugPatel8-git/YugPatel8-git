@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 12" role="img" aria-labelledby="t d">
+<title id="t">Circuit trace</title><desc id="d">Short horizontal circuit trace with flowing signal.</desc>
+<circle cx="4" cy="6" r="2.5" fill="none" stroke="#7C3AED" stroke-width="1.2"/>
+<line x1="7" y1="6" x2="37" y2="6" stroke="#4D8AFF" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.9"><animate attributeName="stroke-dashoffset" values="0;-16" dur="2.4s" repeatCount="indefinite"/></line>
+<path d="M37 3 l5 3 -5 3 z" fill="#00E5FF"/>
+</svg>

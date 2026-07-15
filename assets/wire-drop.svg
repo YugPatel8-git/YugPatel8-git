@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 46" role="img" aria-labelledby="t d">
+<title id="t">Dock wire</title><desc id="d">Vertical connector wire with a descending data pulse.</desc>
+<rect x="8" y="2" width="8" height="5" fill="#101530" stroke="#00E5FF" stroke-width="1.2"/>
+<line x1="12" y1="7" x2="12" y2="39" stroke="#00E5FF" stroke-width="1.5" opacity="0.85"/>
+<line x1="12" y1="7" x2="12" y2="39" stroke="#00E5FF" stroke-width="4" opacity="0.08"/>
+<path d="M8 39 h8 l-4 5 z" fill="#101530" stroke="#4D8AFF" stroke-width="1.2"/>
+<circle cx="12" r="2" fill="#00E5FF"><animate attributeName="cy" values="9;37" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3.5s" repeatCount="indefinite"/></circle>
+</svg>
