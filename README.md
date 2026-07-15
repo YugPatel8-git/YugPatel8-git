@@ -36,6 +36,8 @@
 <!-- ─── SYS.01 · IDENTITY ─────────────────────────────────────────── -->
 
 <img src="assets/section-identity.svg" width="100%" alt="SYS.01 — About"/>
+<div align="center"><img src="assets/panel-about.svg" width="100%" alt="Terminal panel: whoami, mission and focus"></div>
+
 
 <div align="center"><img src="assets/panel-identity.svg" width="460" alt="biometric identity scan panel with telemetry"/></div>
 <div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
@@ -159,6 +161,8 @@ principle: >
 <!-- ─── SYS.05 · STACK.MANIFEST ───────────────────────────────────── -->
 
 <img src="assets/section-tech.svg" width="100%" alt="SYS.05 — Tech Stack"/>
+<div align="center"><img src="assets/panel-stack.svg" width="100%" alt="Tech stack inventory panel with load bars"></div>
+
 
 <div align="center"><img src="assets/panel-core.svg" width="460" alt="tech arsenal power core wired to chip grid"/></div>
 <div align="center"><img src="assets/wire-drop.svg" width="20" alt=""/></div>
@@ -174,6 +178,8 @@ principle: >
 <!-- ─── SYS.06 · UPGRADE.QUEUE ────────────────────────────────────── -->
 
 <img src="assets/section-learning.svg" width="100%" alt="SYS.06 — Learning Next"/>
+<div align="center"><img src="assets/panel-learning.svg" width="100%" alt="Learning upgrade queue with install progress"></div>
+
 
 <div align="center">
 <br/>
@@ -190,6 +196,8 @@ principle: >
 <!-- ─── SYS.07 · TELEMETRY ────────────────────────────────────────── -->
 
 <img src="assets/section-activity.svg" width="100%" alt="SYS.07 — Activity"/>
+<div align="center"><img src="assets/panel-telemetry.svg" width="100%" alt="Telemetry feed strip with live graph and radar"></div>
+
 
 <div align="center">
 <img src="assets/radar-mini.svg" width="84" alt="animated radar sweep"/>
@@ -217,6 +225,8 @@ principle: >
 <!-- ─── SYS.08 · UPLINK ───────────────────────────────────────────── -->
 
 <img src="assets/section-connect.svg" width="100%" alt="SYS.08 — Connect"/>
+<div align="center"><img src="assets/panel-uplink.svg" width="100%" alt="Uplink console with mail, github and repos channels"></div>
+
 
 <div align="center">
 <img src="assets/chip-link.svg" width="250" alt="uplink channels open"/>
