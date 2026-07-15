@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 78" role="img" aria-labelledby="ctt ctd" preserveAspectRatio="xMidYMid meet">
+<title id="ctt">Data transfer divider</title><desc id="ctd">Chevron data stream with an advancing transfer bar.</desc>
+<defs>
+<linearGradient id="ctbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
+<pattern id="ctgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<pattern id="ctsc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
+<filter id="ctgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.22">
+<path d="M0 16 H880"/><path d="M0 62 H880"/></g>
+<path d="M20 39 H860" stroke="#4D8AFF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<g fill="none" stroke="#00E5FF" stroke-width="2" stroke-linejoin="round" opacity="0.85"><path d="M120 32 l14 7 -14 7" /><path d="M180 32 l14 7 -14 7" /><path d="M240 32 l14 7 -14 7" /><path d="M300 32 l14 7 -14 7" /><path d="M360 32 l14 7 -14 7" /><path d="M420 32 l14 7 -14 7" /><path d="M480 32 l14 7 -14 7" /><path d="M540 32 l14 7 -14 7" /><path d="M600 32 l14 7 -14 7" /><path d="M660 32 l14 7 -14 7" /><path d="M720 32 l14 7 -14 7" />
+<animate attributeName="opacity" values="0.4;0.95;0.4" dur="3.6s" repeatCount="indefinite"/></g>
+<rect x="20" y="36" width="0" height="6" fill="#00E5FF" opacity="0.35"><animate attributeName="width" values="0;840" dur="12s" repeatCount="indefinite"/></rect>
+<text x="24" y="28" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="3" fill="#00E5FF">TRANSFERRING KNOWLEDGE…</text>
+<text x="856" y="28" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#22E06C" text-anchor="end">LINK STABLE</text>
+<rect x="14" y="35" width="8" height="8" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
+<rect x="858" y="35" width="8" height="8" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "visual-hierarchy": {
+      "source": "owl-listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "ui-design/skills/visual-hierarchy/SKILL.md",
+      "computedHash": "84716269e53847173e89f92654f0ede6d0d7303ad4739de64eb56ef2aad8a9a8"
+    }
+  }
+}

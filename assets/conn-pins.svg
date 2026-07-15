@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 78" role="img" aria-labelledby="cpt cpd" preserveAspectRatio="xMidYMid meet">
+<title id="cpt">Chip pin header divider</title><desc id="cpd">PCB pin header bus with counter-flowing signals.</desc>
+<defs>
+<linearGradient id="cpbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
+<pattern id="cpgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<pattern id="cpsc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
+<filter id="cpgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.22">
+<path d="M0 12 H880"/><path d="M0 66 H880"/></g>
+<path id="cpb" d="M20 21 H860" stroke="#00E5FF" stroke-width="1.5" fill="none"/>
+<path d="M20 57 H860" stroke="#4D8AFF" stroke-width="1.5" fill="none" opacity="0.7"/>
+<g stroke="#4D8AFF" stroke-width="1.5" opacity="0.75"><path d="M80 30 v18" /><path d="M116 30 v18" /><path d="M152 30 v18" /><path d="M188 30 v18" /><path d="M224 30 v18" /><path d="M260 30 v18" /><path d="M296 30 v18" /><path d="M332 30 v18" /><path d="M368 30 v18" /><path d="M404 30 v18" /><path d="M440 30 v18" /><path d="M476 30 v18" /><path d="M512 30 v18" /><path d="M548 30 v18" /><path d="M584 30 v18" /><path d="M620 30 v18" /><path d="M656 30 v18" /><path d="M692 30 v18" /><path d="M728 30 v18" /><path d="M764 30 v18" /></g>
+<g fill="#101530" stroke="#00E5FF" stroke-width="1"><rect x="77" y="24" width="6" height="6"/><rect x="113" y="24" width="6" height="6"/><rect x="149" y="24" width="6" height="6"/><rect x="185" y="24" width="6" height="6"/><rect x="221" y="24" width="6" height="6"/><rect x="257" y="24" width="6" height="6"/><rect x="293" y="24" width="6" height="6"/><rect x="329" y="24" width="6" height="6"/><rect x="365" y="24" width="6" height="6"/><rect x="401" y="24" width="6" height="6"/><rect x="437" y="24" width="6" height="6"/><rect x="473" y="24" width="6" height="6"/><rect x="509" y="24" width="6" height="6"/><rect x="545" y="24" width="6" height="6"/><rect x="581" y="24" width="6" height="6"/><rect x="617" y="24" width="6" height="6"/><rect x="653" y="24" width="6" height="6"/><rect x="689" y="24" width="6" height="6"/><rect x="725" y="24" width="6" height="6"/><rect x="761" y="24" width="6" height="6"/></g>
+<rect x="404" y="28" width="72" height="22" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
+<text x="440" y="43" font-family="Consolas, Courier New, monospace" font-size="9" letter-spacing="2" fill="#00E5FF" text-anchor="middle">CPU.BUS</text>
+<circle r="3" fill="#00E5FF"><animateMotion dur="8s" repeatCount="indefinite"><mpath href="#cpb"/></animateMotion></circle>
+<circle r="2" fill="#22E06C"><animateMotion path="M860 57 H20" dur="12s" repeatCount="indefinite"/></circle>
+</svg>

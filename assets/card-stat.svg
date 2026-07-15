@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 190" role="img" aria-labelledby="k1t k1d" preserveAspectRatio="xMidYMid meet">
+<title id="k1t">⚽ STAT UPDATES project module</title><desc id="k1d">Dashboard card for ⚽ STAT UPDATES: Live match dashboard — real-time scores &amp; stats.</desc>
+<defs>
+<linearGradient id="k1bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
+<pattern id="k1gr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<pattern id="k1sc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
+<filter id="k1gl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M13.5 1.5 H276.5 L288.5 13.5 V176.5 L276.5 188.5 H13.5 L1.5 176.5 V13.5 Z" fill="url(#k1bg)" stroke="#00E5FF" stroke-width="1.5"/>
+<path d="M13.5 1.5 H276.5 L288.5 13.5 V176.5 L276.5 188.5 H13.5 L1.5 176.5 V13.5 Z" fill="url(#k1gr)"/>
+<path d="M13.5 1.5 H276.5 L288.5 13.5 V176.5 L276.5 188.5 H13.5 L1.5 176.5 V13.5 Z" fill="url(#k1sc)"/>
+<path d="M14 1.5 H276" stroke="#22E06C" stroke-width="3" opacity="0.5"/>
+<g transform="translate(20,26)">
+<rect width="250" height="70" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="0.8" opacity="0.9"/>
+<g fill="#00E5FF" opacity="0.9">
+<rect x="14" y="40" width="12" height="22"><animate attributeName="height" values="22;36;22" dur="4s" repeatCount="indefinite"/><animate attributeName="y" values="40;26;40" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="34" y="30" width="12" height="32" fill="#4D8AFF"><animate attributeName="height" values="32;18;32" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="30;44;30" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="54" y="22" width="12" height="40" fill="#7C3AED"/>
+</g>
+<path d="M84 52 L110 36 136 46 162 28 188 40 214 24 238 34" fill="none" stroke="#22E06C" stroke-width="1.5"/>
+<circle cx="238" cy="34" r="2.6" fill="#FF2D95"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="14" y="16" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#4D8AFF">MATCH FEED ▸ LIVE</text>
+</g>
+<text x="20" y="118" font-family="Consolas, Courier New, monospace" font-size="13" letter-spacing="2" fill="#00E5FF" font-weight="bold">⚽ STAT UPDATES</text>
+<path d="M20 126 H270" stroke="#4D8AFF" stroke-width="0.6" opacity="0.5"/>
+<g font-family="Consolas, Courier New, monospace" font-size="9" fill="#B8C4E8">
+<text x="20" y="142">Live match dashboard —</text><text x="20" y="156">real-time scores &amp; stats.</text></g>
+<rect x="20" y="166" width="7" height="7" fill="#22E06C"><animate attributeName="opacity" values="1;0.25;1" dur="2.8s" repeatCount="indefinite"/></rect>
+<text x="32" y="173" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#22E06C">STATUS ▸ LIVE</text>
+<g stroke="#7C3AED" stroke-width="1.5" fill="none" opacity="0.9"><path d="M8 28 v-14 M8 14 h14 M282 162 v14 M282 176 h-14"/></g>
+<rect x="140.0" y="182" width="10" height="6" fill="#101530" stroke="#00E5FF" stroke-width="1.2"/>
+<rect x="140.0" y="2" width="10" height="6" fill="#101530" stroke="#00E5FF" stroke-width="1.2"/>
+</svg>

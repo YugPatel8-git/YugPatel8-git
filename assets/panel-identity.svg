@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 220" role="img" aria-labelledby="pit pid" preserveAspectRatio="xMidYMid meet">
+<title id="pit">Identity scan panel</title><desc id="pid">Biometric profile scan interface with rotating rings, scan beam and identity telemetry.</desc>
+<defs>
+<linearGradient id="pibg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
+<pattern id="pigr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<pattern id="pisc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
+<filter id="pigl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M15.5 1.5 H444.5 L458.5 15.5 V204.5 L444.5 218.5 H15.5 L1.5 204.5 V15.5 Z" fill="url(#pibg)" stroke="#00E5FF" stroke-width="1.5"/>
+<path d="M15.5 1.5 H444.5 L458.5 15.5 V204.5 L444.5 218.5 H15.5 L1.5 204.5 V15.5 Z" fill="url(#pigr)"/>
+<path d="M15.5 1.5 H444.5 L458.5 15.5 V204.5 L444.5 218.5 H15.5 L1.5 204.5 V15.5 Z" fill="url(#pisc)"/>
+<path d="M15.5 1.5 H444.5" stroke="#00E5FF" stroke-width="3" opacity="0.35"/>
+<g fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.8">
+<path d="M8 194 v18 M8 212 h18"/><path d="M452 26 v-18 M452 8 h-18"/>
+</g>
+<g transform="translate(14,4)"><rect width="106.2" height="16" fill="#0B0E1A" stroke="#00E5FF" stroke-width="1"/>
+<text x="53.1" y="12" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="2" fill="#00E5FF" text-anchor="middle">IDENTITY.SCAN</text></g>
+<text x="446" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#4D8AFF" text-anchor="end" opacity="0.9">ID.CORE//YP-06</text>
+<rect x="434" y="206" width="6" height="6" fill="#22E06C"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
+<text x="428" y="212" font-family="Consolas, Courier New, monospace" font-size="7" fill="#22E06C" text-anchor="end" letter-spacing="1">ONLINE</text>
+<circle cx="120" cy="118" r="62" fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.3" stroke-dasharray="3 5"/>
+<g fill="none" stroke="#00E5FF" stroke-width="1.5" filter="url(#pigl)">
+<circle cx="120" cy="118" r="50"/>
+<circle cx="120" cy="118" r="42" opacity="0.4" stroke-dasharray="10 6">
+<animateTransform attributeName="transform" type="rotate" from="0 120 118" to="360 120 118" dur="24s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="#00E5FF" stroke-width="1.6">
+<circle cx="120" cy="102" r="13"/>
+<path d="M96 142 a24 18 0 0 1 48 0" />
+</g>
+<rect x="66" y="60" width="108" height="4" fill="#FF2D95" opacity="0.55">
+<animate attributeName="y" values="64;168;64" dur="8s" repeatCount="indefinite"/></rect>
+<g stroke="#7C3AED" stroke-width="1.5" fill="none" opacity="0.9">
+<path d="M56 66 v-10 h10 M184 66 v-10 h-10 M56 170 v10 h10 M184 170 v10 h-10"/></g>
+<path d="M170 118 H236" stroke="#00E5FF" stroke-width="1.5"/>
+<path d="M236 118 h8 l6 -6 h60" stroke="#00E5FF" stroke-width="1.5" fill="none"/>
+<circle r="2.4" fill="#00E5FF"><animateMotion path="M170 118 h66 l14 -6 h60" dur="4.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(310,52)" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1"><text x="0" y="8" fill="#4D8AFF" opacity="0.9">HANDLE</text><text x="128" y="8" fill="#00E5FF" text-anchor="end">YUG PATEL</text><path d="M0 12 H128" stroke="#4D8AFF" stroke-width="0.5" opacity="0.3"/><text x="0" y="24" fill="#4D8AFF" opacity="0.9">ROLE</text><text x="128" y="24" fill="#00E5FF" text-anchor="end">DEVELOPER</text><path d="M0 28 H128" stroke="#4D8AFF" stroke-width="0.5" opacity="0.3"/><text x="0" y="40" fill="#4D8AFF" opacity="0.9">BASE</text><text x="128" y="40" fill="#4D8AFF" text-anchor="end">ASU // CS</text><path d="M0 44 H128" stroke="#4D8AFF" stroke-width="0.5" opacity="0.3"/><text x="0" y="56" fill="#4D8AFF" opacity="0.9">FOCUS</text><text x="128" y="56" fill="#7C3AED" text-anchor="end">AI + WEB</text><path d="M0 60 H128" stroke="#4D8AFF" stroke-width="0.5" opacity="0.3"/><text x="0" y="72" fill="#4D8AFF" opacity="0.9">STATE</text><text x="128" y="72" fill="#22E06C" text-anchor="end">BUILDING</text><path d="M0 76 H128" stroke="#4D8AFF" stroke-width="0.5" opacity="0.3"/></g>
+<text x="238" y="150" font-family="Consolas, Courier New, monospace" font-size="8" fill="#4D8AFF" letter-spacing="2" opacity="0.9">SCAN INTEGRITY</text>
+<rect x="238" y="156" width="130" height="5" fill="#101530" stroke="#4D8AFF" stroke-width="0.6"/>
+<rect x="238" y="156" width="0" height="5" fill="#00E5FF"><animate attributeName="width" values="0;130" dur="6s" fill="freeze"/></rect>
+<text x="238" y="178" font-family="Consolas, Courier New, monospace" font-size="8" fill="#22E06C" letter-spacing="2">MATCH CONFIRMED ▸ ACCESS GRANTED</text>
+</svg>
