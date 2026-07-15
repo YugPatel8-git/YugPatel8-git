@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Malware nodes</title><desc id="d">Floating spiked malware nodes drifting slowly.</desc>
+<g transform="translate(38 44)"><circle r="12" fill="#101530" stroke="#FF2D95" stroke-width="2"/>
+<g stroke="#FF2D95" stroke-width="2" stroke-linecap="round"><line x1="0" y1="-12" x2="0" y2="-18"/><line x1="12" y1="0" x2="18" y2="0"/><line x1="0" y1="12" x2="0" y2="18"/><line x1="-12" y1="0" x2="-18" y2="0"/><line x1="8.5" y1="-8.5" x2="12.7" y2="-12.7"/><line x1="-8.5" y1="8.5" x2="-12.7" y2="12.7"/></g>
+<circle r="4" fill="#FF2D95"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<animateTransform attributeName="transform" type="translate" values="38 44;42 38;38 44" dur="7s" repeatCount="indefinite"/></g>
+<g transform="translate(84 74)"><circle r="8" fill="#101530" stroke="#7C3AED" stroke-width="2"/>
+<g stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round"><line x1="0" y1="-8" x2="0" y2="-13"/><line x1="8" y1="0" x2="13" y2="0"/><line x1="-5.7" y1="5.7" x2="-9.2" y2="9.2"/><line x1="5.7" y1="5.7" x2="9.2" y2="9.2"/></g>
+<circle r="2.5" fill="#7C3AED"/>
+<animateTransform attributeName="transform" type="translate" values="84 74;80 82;84 74" dur="9s" repeatCount="indefinite"/></g>
+<circle cx="78" cy="30" r="2" fill="#00E5FF"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="30" cy="88" r="1.6" fill="#4D8AFF"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/></circle></svg>

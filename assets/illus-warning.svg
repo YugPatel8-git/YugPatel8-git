@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Warning signal</title><desc id="d">Blinking warning triangle alert.</desc>
+<path d="M60 20 L104 96 H16 Z" fill="#101530" stroke="#FF2D95" stroke-width="3" stroke-linejoin="round"/>
+<path d="M60 20 L104 96 H16 Z" fill="none" stroke="#FF2D95" stroke-width="7" opacity="0.12" stroke-linejoin="round"><animate attributeName="opacity" values="0.05;0.3;0.05" dur="2.8s" repeatCount="indefinite"/></path>
+<line x1="60" y1="46" x2="60" y2="72" stroke="#FF2D95" stroke-width="6" stroke-linecap="round"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/></line>
+<circle cx="60" cy="84" r="4" fill="#FF2D95"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/></circle></svg>

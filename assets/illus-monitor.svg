@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Monitor</title><desc id="d">Computer monitor with animated data bars.</desc>
+<rect x="14" y="18" width="92" height="62" rx="6" fill="#0B0E1A" stroke="#00E5FF" stroke-width="2"/>
+<rect x="50" y="84" width="20" height="6" fill="#101530" stroke="#7C3AED" stroke-width="1.5"/>
+<rect x="38" y="92" width="44" height="4" rx="2" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
+<g stroke-width="4" stroke-linecap="round">
+<line x1="24" y1="34" x2="24" y2="34" stroke="#00E5FF"><animate attributeName="x2" values="24;72;40;86;24" dur="6s" repeatCount="indefinite"/></line>
+<line x1="24" y1="48" x2="24" y2="48" stroke="#4D8AFF"><animate attributeName="x2" values="60;30;80;60" dur="7s" repeatCount="indefinite"/></line>
+<line x1="24" y1="62" x2="24" y2="62" stroke="#FF2D95"><animate attributeName="x2" values="40;90;28;40" dur="8s" repeatCount="indefinite"/></line>
+</g>
+<line x1="14" y1="26" x2="106" y2="26" stroke="#00E5FF" stroke-width="1" opacity="0.35"><animate attributeName="y1" values="22;76;22" dur="9s" repeatCount="indefinite"/><animate attributeName="y2" values="22;76;22" dur="9s" repeatCount="indefinite"/></line></svg>
