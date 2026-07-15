@@ -1,21 +1,24 @@
 <!-- ══════════════════════════════════════════════════════════════════
-     YUG PATEL · DARK CYBER PORTFOLIO v3 — FULL HUD EDITION
+     YUG PATEL · DARK CYBER PORTFOLIO v4 — CONNECTED HUD EDITION
      Direction: Superdesign draft "CyberHUD Profile Section Headers"
        (project 420732f3, draft 6feb933f) + ui-ux-pro-max OLED dark
        + premium-frontend-ui hero architecture + brutalist telemetry accents
        + GSAP timeline thinking → SMIL (staggered begin offsets, sweeps)
-     Render-safe policy (verified 2026-07-13):
-       · ALL section headers/dividers = local animated SVGs in assets/
+     v4: one connected cyber interface — angular HUD panels, circuit-trace
+       dividers with data packets, perspective grid + noise + radar hero,
+       local frame-top/frame-bottom replace all third-party banners.
+     Render-safe policy (verified 2026-07-15):
+       · ALL frames/headers/dividers = local animated SVGs in assets/
          — served by GitHub itself, cannot 404
        · readme-typing-svg.demolab.com — HTTP 200 ✓
-       · capsule-render.vercel.app — HTTP 200 ✓
        · img.shields.io — HTTP 200 ✓
+       · capsule-render.vercel.app — REMOVED (replaced by local frames)
        · github-readme-stats — HTTP 503 ✗ BANNED. No stats cards.
      ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,50:7C3AED,100:4D8AFF&text=&section=header" width="100%" alt=""/>
+<img src="assets/frame-top.svg" width="100%" alt=""/>
 
 <!-- LOCAL ANIMATED HERO — lives in this repo, can never break -->
 <img src="assets/hero-banner.svg" width="100%" alt="Yug Patel — AI-driven developer, builder, CS @ ASU"/>
@@ -65,7 +68,7 @@ principle: >
 </tr>
 </table>
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.02 · ACTIVE.PROCESSES ─────────────────────────────────── -->
 
@@ -80,7 +83,7 @@ principle: >
 
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.03 · PROJECT.INDEX ────────────────────────────────────── -->
 
@@ -120,7 +123,7 @@ principle: >
 </tr>
 </table>
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.04 · AGENT.LOOP ───────────────────────────────────────── -->
 
@@ -140,7 +143,7 @@ principle: >
 | `LOG` | **CLAUDE.md decision log** | Wrap-ups, decisions, and next steps per repo |
 | `DISCOVER` | **find-skills** | Skill discovery & tool selection |
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.05 · STACK.MANIFEST ───────────────────────────────────── -->
 
@@ -152,7 +155,7 @@ principle: >
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-4D8AFF?style=flat-square&labelColor=0B0E1A"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> |
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.06 · UPGRADE.QUEUE ────────────────────────────────────── -->
 
@@ -168,7 +171,7 @@ principle: >
 
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.07 · TELEMETRY ────────────────────────────────────────── -->
 
@@ -190,7 +193,7 @@ principle: >
 <a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A"/></a>
 </div>
 
-<div align="center"><img src="assets/neon-divider.svg" width="88%" alt=""/></div>
+<div align="center"><img src="assets/neon-divider.svg" width="100%" alt=""/></div>
 
 <!-- ─── SYS.08 · UPLINK ───────────────────────────────────────────── -->
 
@@ -211,6 +214,6 @@ principle: >
 
 <sub><code>BUILD USEFUL THINGS · SHIP THEM · REPEAT</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4D8AFF,50:7C3AED,100:00E5FF&section=footer" width="100%" alt=""/>
+<img src="assets/frame-bottom.svg" width="100%" alt=""/>
 
 </div>
