@@ -1,10 +1,10 @@
 <!-- ══════════════════════════════════════════════════════════════════
-     YUG PATEL · DARK CYBER PORTFOLIO v4 — CONNECTED HUD EDITION
+     YUG PATEL · DARK CYBER PORTFOLIO v5 — NEON DUSK EDITION
      Direction: Superdesign draft "CyberHUD Profile Section Headers"
-       (project 420732f3, draft 6feb933f) + ui-ux-pro-max OLED dark
+       (project 420732f3, draft 6feb933f) + ui-ux-pro-max neon dusk palette
        + premium-frontend-ui hero architecture + brutalist telemetry accents
        + GSAP timeline thinking → SMIL (staggered begin offsets, sweeps)
-     v4: one connected cyber interface — angular HUD panels, circuit-trace
+     v5: one connected cyber interface, sunset-metropolis reskin — angular HUD panels, circuit-trace
        dividers with data packets, perspective grid + noise + radar hero,
        local frame-top/frame-bottom replace all third-party banners.
      Render-safe policy (verified 2026-07-15):
@@ -27,7 +27,7 @@
 
 [![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=640&lines=Computer+Science+%40+Arizona+State+University;Technical+Consultant+%40+ASU;AI+%C2%B7+Software+%C2%B7+Frontend%2FUI+%C2%B7+Data+%C2%B7+Automation;Design+with+AI.+Build+with+intent.+Ship.)](https://github.com/YugPatel8-git)
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="STATUS BUILDING"/>&nbsp;<img src="https://img.shields.io/badge/MODE-AI--FIRST-7C3AED?style=for-the-badge&labelColor=0B0E1A" alt="MODE AI-FIRST"/>&nbsp;<img src="https://img.shields.io/badge/COLLAB-OPEN-4D8AFF?style=for-the-badge&labelColor=0B0E1A" alt="COLLAB OPEN"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=1A0F2E" alt="STATUS BUILDING"/>&nbsp;<img src="https://img.shields.io/badge/MODE-AI--FIRST-FF3EA5?style=for-the-badge&labelColor=1A0F2E" alt="MODE AI-FIRST"/>&nbsp;<img src="https://img.shields.io/badge/COLLAB-OPEN-FF8C42?style=for-the-badge&labelColor=1A0F2E" alt="COLLAB OPEN"/>
 
 </div>
 
@@ -99,11 +99,11 @@ principle: >
 <tr>
 <td colspan="2" valign="top">
 
-### ⚽ Stat Updates · <img src="https://img.shields.io/badge/FLAGSHIP-00E5FF?style=flat-square&labelColor=0B0E1A" alt="FLAGSHIP"/>
+### ⚽ Stat Updates · <img src="https://img.shields.io/badge/FLAGSHIP-00E5FF?style=flat-square&labelColor=1A0F2E" alt="FLAGSHIP"/>
 
 > Soccer **live-match dashboard** on real football APIs — live scores, team logos, match analysis views, and caching engineered to stay fast *and* inside API rate limits. If data can break, it degrades gracefully.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/REST_APIs-4D8AFF?style=flat-square&labelColor=0B0E1A" alt="REST APIs"/> <img src="https://img.shields.io/badge/Caching-7C3AED?style=flat-square&labelColor=0B0E1A" alt="Caching"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/REST_APIs-FF8C42?style=flat-square&labelColor=1A0F2E" alt="REST APIs"/> <img src="https://img.shields.io/badge/Caching-FF3EA5?style=flat-square&labelColor=1A0F2E" alt="Caching"/>
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ principle: >
 
 > Experiments running AI assistants **locally** and wiring them into real everyday workflows — not one-off chats.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Local_LLMs-7C3AED?style=flat-square&labelColor=0B0E1A" alt="Local LLMs"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Local_LLMs-FF3EA5?style=flat-square&labelColor=1A0F2E" alt="Local LLMs"/>
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +171,7 @@ principle: >
 |:---|:---|
 | **Languages** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/> |
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> |
-| **Data & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-4D8AFF?style=flat-square&labelColor=0B0E1A" alt="VS Code"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> |
+| **Data & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-FF8C42?style=flat-square&labelColor=1A0F2E" alt="VS Code"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> |
 
 <div align="center"><img src="assets/conn-transfer.svg" width="100%" alt=""/></div>
 
@@ -184,10 +184,10 @@ principle: >
 <div align="center">
 <br/>
 
-<img src="https://img.shields.io/badge/Applied-AI%2FML-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="Applied AI/ML"/>
-<img src="https://img.shields.io/badge/Advanced-TypeScript-3178C6?style=for-the-badge&labelColor=0B0E1A" alt="Advanced TypeScript"/>
-<img src="https://img.shields.io/badge/Frontend-Architecture-7C3AED?style=for-the-badge&labelColor=0B0E1A" alt="Frontend Architecture"/>
-<img src="https://img.shields.io/badge/Data_&_API-Design-4D8AFF?style=for-the-badge&labelColor=0B0E1A" alt="Data & API Design"/>
+<img src="https://img.shields.io/badge/Applied-AI%2FML-00E5FF?style=for-the-badge&labelColor=1A0F2E" alt="Applied AI/ML"/>
+<img src="https://img.shields.io/badge/Advanced-TypeScript-3178C6?style=for-the-badge&labelColor=1A0F2E" alt="Advanced TypeScript"/>
+<img src="https://img.shields.io/badge/Frontend-Architecture-FF3EA5?style=for-the-badge&labelColor=1A0F2E" alt="Frontend Architecture"/>
+<img src="https://img.shields.io/badge/Data_&_API-Design-FF8C42?style=for-the-badge&labelColor=1A0F2E" alt="Data & API Design"/>
 
 </div>
 
@@ -217,7 +217,7 @@ principle: >
 
 <br/><br/>
 
-<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="assets/illus-globe.svg" width="36" alt="rotating holographic globe"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=0B0E1A" alt="OPEN PROJECT INDEX repositories"/></a>
+<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="assets/illus-globe.svg" width="36" alt="rotating holographic globe"/><img src="assets/trace-h.svg" width="40" alt=""/><img src="https://img.shields.io/badge/📂_OPEN_PROJECT_INDEX-repositories-00E5FF?style=for-the-badge&labelColor=1A0F2E" alt="OPEN PROJECT INDEX repositories"/></a>
 </div>
 
 <div align="center"><img src="assets/conn-wave.svg" width="100%" alt=""/></div>
@@ -237,11 +237,11 @@ principle: >
 
 **Let's build something together** — AI tools, web apps, or automation ideas welcome.
 
-<a href="mailto:yugkpatel872006@gmail.com"><img src="https://img.shields.io/badge/✉_Email-reach_out-EA4335?style=for-the-badge&labelColor=0B0E1A" alt="Email reach out"/></a>
+<a href="mailto:yugkpatel872006@gmail.com"><img src="https://img.shields.io/badge/✉_Email-reach_out-EA4335?style=for-the-badge&labelColor=1A0F2E" alt="Email reach out"/></a>
 &nbsp;
-<a href="https://github.com/YugPatel8-git"><img src="https://img.shields.io/badge/⭐_GitHub-YugPatel8--git-7C3AED?style=for-the-badge&labelColor=0B0E1A" alt="GitHub YugPatel8-git"/></a>
+<a href="https://github.com/YugPatel8-git"><img src="https://img.shields.io/badge/⭐_GitHub-YugPatel8--git-FF3EA5?style=for-the-badge&labelColor=1A0F2E" alt="GitHub YugPatel8-git"/></a>
 &nbsp;
-<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/⌁_Repositories-browse-4D8AFF?style=for-the-badge&labelColor=0B0E1A" alt="Repositories browse"/></a>
+<a href="https://github.com/YugPatel8-git?tab=repositories"><img src="https://img.shields.io/badge/⌁_Repositories-browse-FF8C42?style=for-the-badge&labelColor=1A0F2E" alt="Repositories browse"/></a>
 
 <br/><br/>
 

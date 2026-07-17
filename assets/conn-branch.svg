@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 78" role="img" aria-labelledby="cbt cbd" preserveAspectRatio="xMidYMid meet">
 <title id="cbt">Branching module bus</title><desc id="cbd">Main bus branching into three module ports with signal drops.</desc>
 <defs>
-<linearGradient id="cbbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
-<pattern id="cbgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<linearGradient id="cbbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1640"/><stop offset="1" stop-color="#170b26"/></linearGradient>
+<pattern id="cbgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff8c42" stroke-width="0.5" opacity="0.16"/></pattern>
 <pattern id="cbsc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
 <filter id="cbgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<g fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.22">
+<g fill="none" stroke="#ff8c42" stroke-width="1" opacity="0.22">
 <path d="M0 14 H880"/><path d="M60 64 H820"/></g>
 <path id="cbt" d="M20 26 H860" stroke="#00E5FF" stroke-width="1.5" fill="none"/>
 <path d="M20 26 H860" stroke="#00E5FF" stroke-width="5" opacity="0.08" fill="none"/>
 <g stroke="#00E5FF" stroke-width="1.5" fill="none">
 <path d="M180 26 v22 M440 26 v22 M700 26 v22"/>
 </g>
-<g fill="#101530" stroke="#4D8AFF" stroke-width="1.5">
+<g fill="#241236" stroke="#ff8c42" stroke-width="1.5">
 <path d="M174 48 h12 l-6 9 z"/><path d="M434 48 h12 l-6 9 z"/><path d="M694 48 h12 l-6 9 z"/>
 </g>
-<g fill="#101530" stroke="#00E5FF" stroke-width="1.5">
+<g fill="#241236" stroke="#00E5FF" stroke-width="1.5">
 <rect x="175" y="21" width="10" height="10" transform="rotate(45 180 26)"/>
 <rect x="435" y="21" width="10" height="10" transform="rotate(45 440 26)"/>
 <rect x="695" y="21" width="10" height="10" transform="rotate(45 700 26)"/>
 </g>
-<g font-family="Consolas, Courier New, monospace" font-size="7" fill="#4D8AFF" text-anchor="middle" letter-spacing="2">
+<g font-family="Consolas, Courier New, monospace" font-size="7" fill="#ff8c42" text-anchor="middle" letter-spacing="2">
 <text x="180" y="70">MOD.01</text><text x="440" y="70">MOD.02</text><text x="700" y="70">MOD.03</text>
 </g>
-<rect x="14" y="22" width="8" height="8" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
-<rect x="858" y="22" width="8" height="8" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
+<rect x="14" y="22" width="8" height="8" fill="#241236" stroke="#00E5FF" stroke-width="1.5"/>
+<rect x="858" y="22" width="8" height="8" fill="#241236" stroke="#00E5FF" stroke-width="1.5"/>
 <circle r="3" fill="#00E5FF"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#cbt"/></animateMotion></circle>
 <g fill="#22E06C"><circle cx="180" cy="37" r="2"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
 <circle cx="440" cy="37" r="2"><animate attributeName="opacity" values="0;1;0" dur="3s" begin="1s" repeatCount="indefinite"/></circle>

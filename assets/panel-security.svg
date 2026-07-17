@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" role="img" aria-labelledby="pst psd" preserveAspectRatio="xMidYMid meet">
 <title id="pst">Security rack panel</title><desc id="psd">Hardware rack with four linked security bays: shield, encryption, threat watch and alert system.</desc>
 <defs>
-<linearGradient id="psbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
-<pattern id="psgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<linearGradient id="psbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1640"/><stop offset="1" stop-color="#170b26"/></linearGradient>
+<pattern id="psgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff8c42" stroke-width="0.5" opacity="0.16"/></pattern>
 <pattern id="pssc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
 <filter id="psgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
@@ -10,31 +10,31 @@
 <path d="M15.5 1.5 H864.5 L878.5 15.5 V134.5 L864.5 148.5 H15.5 L1.5 134.5 V15.5 Z" fill="url(#psgr)"/>
 <path d="M15.5 1.5 H864.5 L878.5 15.5 V134.5 L864.5 148.5 H15.5 L1.5 134.5 V15.5 Z" fill="url(#pssc)"/>
 <path d="M15.5 1.5 H864.5" stroke="#00E5FF" stroke-width="3" opacity="0.35"/>
-<g fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.8">
+<g fill="none" stroke="#ff3ea5" stroke-width="1.5" opacity="0.8">
 <path d="M8 124 v18 M8 142 h18"/><path d="M872 26 v-18 M872 8 h-18"/>
 </g>
-<g transform="translate(14,4)"><rect width="69.2" height="16" fill="#0B0E1A" stroke="#00E5FF" stroke-width="1"/>
+<g transform="translate(14,4)"><rect width="69.2" height="16" fill="#170b26" stroke="#00E5FF" stroke-width="1"/>
 <text x="34.6" y="12" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="2" fill="#00E5FF" text-anchor="middle">SEC.RACK</text></g>
-<text x="866" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#4D8AFF" text-anchor="end" opacity="0.9">DEFENSE//GRID</text>
+<text x="866" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#ff8c42" text-anchor="end" opacity="0.9">DEFENSE//GRID</text>
 <rect x="854" y="136" width="6" height="6" fill="#22E06C"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
 <text x="848" y="142" font-family="Consolas, Courier New, monospace" font-size="7" fill="#22E06C" text-anchor="end" letter-spacing="1">ONLINE</text>
-<path d="M30 122 H850" stroke="#4D8AFF" stroke-width="1" opacity="0.35"/>
+<path d="M30 122 H850" stroke="#ff8c42" stroke-width="1" opacity="0.35"/>
 <g transform="translate(52,34)">
-<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="1" opacity="0.95"/>
+<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#170b26" stroke="#ff8c42" stroke-width="1" opacity="0.95"/>
 <g transform="translate(90,36)"><path d="M0 -22 L18 -14 V4 C18 16, 0 24, 0 24 C0 24, -18 16, -18 4 V-14 Z" fill="none" stroke="#00E5FF" stroke-width="1.6" filter="url(#psgl)"/><path d="M-7 0 l5 6 10 -12" stroke="#22E06C" stroke-width="2" fill="none"/><animateTransform attributeName="transform" type="translate" values="90 36;90 33;90 36" dur="5s" repeatCount="indefinite"/></g>
-<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#4D8AFF" text-anchor="middle">SHIELD.ACTIVE</text>
+<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#ff8c42" text-anchor="middle">SHIELD.ACTIVE</text>
 </g><g transform="translate(262,34)">
-<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="1" opacity="0.95"/>
-<g transform="translate(90,38)"><rect x="-14" y="-6" width="28" height="24" fill="none" stroke="#00E5FF" stroke-width="1.6"/><path d="M-8 -6 v-6 a8 8 0 0 1 16 0 v6" fill="none" stroke="#7C3AED" stroke-width="1.6"/><circle cx="0" cy="5" r="3" fill="#FF2D95"><animate attributeName="opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/></circle></g>
-<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#4D8AFF" text-anchor="middle">ENCRYPTION</text>
+<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#170b26" stroke="#ff8c42" stroke-width="1" opacity="0.95"/>
+<g transform="translate(90,38)"><rect x="-14" y="-6" width="28" height="24" fill="none" stroke="#00E5FF" stroke-width="1.6"/><path d="M-8 -6 v-6 a8 8 0 0 1 16 0 v6" fill="none" stroke="#ff3ea5" stroke-width="1.6"/><circle cx="0" cy="5" r="3" fill="#FF2D95"><animate attributeName="opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/></circle></g>
+<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#ff8c42" text-anchor="middle">ENCRYPTION</text>
 </g><g transform="translate(472,34)">
-<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="1" opacity="0.95"/>
+<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#170b26" stroke="#ff8c42" stroke-width="1" opacity="0.95"/>
 <g transform="translate(90,36)"><circle r="11" fill="none" stroke="#FF2D95" stroke-width="1.6"/><g stroke="#FF2D95" stroke-width="1.5"><path d="M0 -11 v-7 M0 11 v7 M-11 0 h-7 M11 0 h7 M-8 -8 l-5 -5 M8 8 l5 5 M8 -8 l5 -5 M-8 8 l-5 5"/></g><circle r="4" fill="#FF2D95" opacity="0.6"><animate attributeName="r" values="3;5;3" dur="4s" repeatCount="indefinite"/></circle><animateTransform attributeName="transform" type="rotate" from="0 90 36" to="360 90 36" dur="40s" repeatCount="indefinite"/></g>
-<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#4D8AFF" text-anchor="middle">THREAT.WATCH</text>
+<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#ff8c42" text-anchor="middle">THREAT.WATCH</text>
 </g><g transform="translate(682,34)">
-<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="1" opacity="0.95"/>
+<path d="M10 0 H170 L180 10 V76 L170 86 H10 L0 76 V10 Z" fill="#170b26" stroke="#ff8c42" stroke-width="1" opacity="0.95"/>
 <g transform="translate(90,36)"><path d="M0 -18 L20 16 H-20 Z" fill="none" stroke="#FFB020" stroke-width="1.8" stroke-linejoin="round"/><path d="M0 -6 v10" stroke="#FFB020" stroke-width="2.4"/><circle cx="0" cy="10" r="1.8" fill="#FFB020"/><animate attributeName="opacity" values="1;0.45;1" dur="2.8s" repeatCount="indefinite"/></g>
-<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#4D8AFF" text-anchor="middle">ALERT.SYS</text>
+<text x="90" y="80" font-family="Consolas, Courier New, monospace" font-size="7" letter-spacing="2" fill="#ff8c42" text-anchor="middle">ALERT.SYS</text>
 </g>
 <g stroke="#00E5FF" stroke-width="1.2" opacity="0.7">
 <path d="M232 77 h30 M442 77 h30 M652 77 h30"/></g>

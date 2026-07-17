@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" role="img" aria-labelledby="pat pad" preserveAspectRatio="xMidYMid meet">
 <title id="pat">AI core neural interface</title><desc id="pad">Wide neural network interface: input stream flowing through a rotating AI core to action output.</desc>
 <defs>
-<linearGradient id="pabg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
-<pattern id="pagr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<linearGradient id="pabg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1640"/><stop offset="1" stop-color="#170b26"/></linearGradient>
+<pattern id="pagr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff8c42" stroke-width="0.5" opacity="0.16"/></pattern>
 <pattern id="pasc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
 <filter id="pagl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
@@ -10,17 +10,17 @@
 <path d="M15.5 1.5 H864.5 L878.5 15.5 V184.5 L864.5 198.5 H15.5 L1.5 184.5 V15.5 Z" fill="url(#pagr)"/>
 <path d="M15.5 1.5 H864.5 L878.5 15.5 V184.5 L864.5 198.5 H15.5 L1.5 184.5 V15.5 Z" fill="url(#pasc)"/>
 <path d="M15.5 1.5 H864.5" stroke="#00E5FF" stroke-width="3" opacity="0.35"/>
-<g fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.8">
+<g fill="none" stroke="#ff3ea5" stroke-width="1.5" opacity="0.8">
 <path d="M8 174 v18 M8 192 h18"/><path d="M872 26 v-18 M872 8 h-18"/>
 </g>
-<g transform="translate(14,4)"><rect width="84.0" height="16" fill="#0B0E1A" stroke="#00E5FF" stroke-width="1"/>
+<g transform="translate(14,4)"><rect width="84.0" height="16" fill="#170b26" stroke="#00E5FF" stroke-width="1"/>
 <text x="42.0" y="12" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="2" fill="#00E5FF" text-anchor="middle">AGENT.CORE</text></g>
-<text x="866" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#4D8AFF" text-anchor="end" opacity="0.9">NEURAL//v4</text>
+<text x="866" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#ff8c42" text-anchor="end" opacity="0.9">NEURAL//v4</text>
 <rect x="854" y="186" width="6" height="6" fill="#22E06C"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
 <text x="848" y="192" font-family="Consolas, Courier New, monospace" font-size="7" fill="#22E06C" text-anchor="end" letter-spacing="1">ONLINE</text>
-<g fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.28"><path d="M120 100 C200 40, 280 40, 360 55"/><path d="M120 100 C200 70, 280 70, 360 85"/><path d="M120 100 C200 100, 280 100, 360 115"/><path d="M120 100 C200 130, 280 130, 360 145"/><path d="M760 100 C680 40, 600 40, 520 55"/><path d="M760 100 C680 70, 600 70, 520 85"/><path d="M760 100 C680 100, 600 100, 520 115"/><path d="M760 100 C680 130, 600 130, 520 145"/>
+<g fill="none" stroke="#ff8c42" stroke-width="1" opacity="0.28"><path d="M120 100 C200 40, 280 40, 360 55"/><path d="M120 100 C200 70, 280 70, 360 85"/><path d="M120 100 C200 100, 280 100, 360 115"/><path d="M120 100 C200 130, 280 130, 360 145"/><path d="M760 100 C680 40, 600 40, 520 55"/><path d="M760 100 C680 70, 600 70, 520 85"/><path d="M760 100 C680 100, 600 100, 520 115"/><path d="M760 100 C680 130, 600 130, 520 145"/>
 <path d="M360 55 H520 M360 85 H520 M360 115 H520 M360 145 H520"/></g>
-<circle cx="360" cy="55" r="4" fill="#4D8AFF"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="360" cy="85" r="4" fill="#4D8AFF"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle><circle cx="360" cy="115" r="4" fill="#4D8AFF"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.4s" repeatCount="indefinite"/></circle><circle cx="360" cy="145" r="4" fill="#4D8AFF"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle><circle cx="520" cy="55" r="4" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="520" cy="85" r="4" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="520" cy="115" r="4" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle><circle cx="520" cy="145" r="4" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.4999999999999996s" repeatCount="indefinite"/></circle>
+<circle cx="360" cy="55" r="4" fill="#ff8c42"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="360" cy="85" r="4" fill="#ff8c42"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle><circle cx="360" cy="115" r="4" fill="#ff8c42"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.4s" repeatCount="indefinite"/></circle><circle cx="360" cy="145" r="4" fill="#ff8c42"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle><circle cx="520" cy="55" r="4" fill="#ff3ea5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="520" cy="85" r="4" fill="#ff3ea5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="520" cy="115" r="4" fill="#ff3ea5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle><circle cx="520" cy="145" r="4" fill="#ff3ea5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.4999999999999996s" repeatCount="indefinite"/></circle>
 <g fill="none" stroke="#00E5FF" stroke-width="1.6" filter="url(#pagl)">
 <circle cx="440" cy="100" r="40"/>
 <circle cx="440" cy="100" r="30" opacity="0.5" stroke-dasharray="8 6">
@@ -32,12 +32,12 @@
 <path d="M425 92 h10 v16 h-10 M455 92 h-8 v16 h8 M440 84 v-6 M440 116 v6 M424 100 h-8 M456 100 h8"/>
 </g>
 <circle cx="440" cy="100" r="6" fill="#00E5FF"><animate attributeName="r" values="5;8;5" dur="3.5s" repeatCount="indefinite"/></circle>
-<circle cx="120" cy="100" r="10" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
-<circle cx="760" cy="100" r="10" fill="#101530" stroke="#00E5FF" stroke-width="1.5"/>
-<g font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#4D8AFF">
+<circle cx="120" cy="100" r="10" fill="#241236" stroke="#00E5FF" stroke-width="1.5"/>
+<circle cx="760" cy="100" r="10" fill="#241236" stroke="#00E5FF" stroke-width="1.5"/>
+<g font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#ff8c42">
 <text x="120" y="128" text-anchor="middle">INPUT.STREAM</text>
 <text x="760" y="128" text-anchor="middle">ACTION.OUT</text>
-<text x="440" y="176" text-anchor="middle" fill="#7C3AED" letter-spacing="4">AGENTIC TOOLING ▸ PLANNING ▸ EXECUTION</text>
+<text x="440" y="176" text-anchor="middle" fill="#ff3ea5" letter-spacing="4">AGENTIC TOOLING ▸ PLANNING ▸ EXECUTION</text>
 </g>
 <circle r="3" fill="#00E5FF"><animateMotion path="M130 100 C240 30, 300 30, 400 92" dur="5s" repeatCount="indefinite"/></circle>
 <circle r="3" fill="#FF2D95"><animateMotion path="M480 108 C580 170, 660 170, 750 100" dur="5s" begin="2.5s" repeatCount="indefinite"/></circle>

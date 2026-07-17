@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Holographic globe</title><desc id="d">Rotating holographic globe with orbit ring.</desc>
-<circle cx="60" cy="60" r="34" fill="#101530" stroke="#00E5FF" stroke-width="2"/>
+<circle cx="60" cy="60" r="34" fill="#241236" stroke="#00E5FF" stroke-width="2"/>
 <ellipse cx="60" cy="60" rx="34" ry="12" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.6"/>
-<g fill="none" stroke="#4D8AFF" stroke-width="1.5" opacity="0.8">
+<g fill="none" stroke="#ff8c42" stroke-width="1.5" opacity="0.8">
 <ellipse cx="60" cy="60" rx="14" ry="34"><animate attributeName="rx" values="14;2;14;30;14" dur="8s" repeatCount="indefinite"/></ellipse>
 <ellipse cx="60" cy="60" rx="28" ry="34" opacity="0.5"><animate attributeName="rx" values="28;12;28" dur="8s" repeatCount="indefinite"/></ellipse>
 </g>
-<ellipse cx="60" cy="60" rx="46" ry="14" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" values="0;-48" dur="6s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="60" cy="60" rx="46" ry="14" fill="none" stroke="#ff3ea5" stroke-width="1.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" values="0;-48" dur="6s" repeatCount="indefinite"/></ellipse>
 <circle cx="60" cy="60" r="34" fill="none" stroke="#00E5FF" stroke-width="5" opacity="0.12"><animate attributeName="opacity" values="0.06;0.22;0.06" dur="4s" repeatCount="indefinite"/></circle>
 <circle cx="82" cy="44" r="2.5" fill="#FF2D95"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle></svg>

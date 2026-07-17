@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 78" role="img" aria-labelledby="crt crd" preserveAspectRatio="xMidYMid meet">
 <title id="crt">Radar sweep divider</title><desc id="crd">Radar node with rotating sweep and detected blips on a data line.</desc>
 <defs>
-<linearGradient id="crbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
-<pattern id="crgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<linearGradient id="crbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1640"/><stop offset="1" stop-color="#170b26"/></linearGradient>
+<pattern id="crgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff8c42" stroke-width="0.5" opacity="0.16"/></pattern>
 <pattern id="crsc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
 <filter id="crgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<g fill="none" stroke="#4D8AFF" stroke-width="1" opacity="0.22">
+<g fill="none" stroke="#ff8c42" stroke-width="1" opacity="0.22">
 <path d="M0 20 H880"/><path d="M0 58 H880"/></g>
 <path id="crb" d="M20 39 H395 M485 39 H860" stroke="#00E5FF" stroke-width="1.5" fill="none"/>
 <g fill="none" stroke="#00E5FF" stroke-width="1.2" opacity="0.8">
@@ -17,6 +17,6 @@
 <animateTransform attributeName="transform" type="rotate" from="0 440 39" to="360 440 39" dur="7s" repeatCount="indefinite"/></path>
 <circle cx="452" cy="28" r="2.4" fill="#FF2D95"><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/></circle>
 <circle cx="428" cy="52" r="2" fill="#22E06C"><animate attributeName="opacity" values="0;1;0" dur="7s" begin="3s" repeatCount="indefinite"/></circle>
-<text x="440" y="76" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="3" fill="#4D8AFF" text-anchor="middle">SIGNAL MONITORING ACTIVE</text>
+<text x="440" y="76" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="3" fill="#ff8c42" text-anchor="middle">SIGNAL MONITORING ACTIVE</text>
 <circle r="3" fill="#00E5FF"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#crb"/></animateMotion></circle>
 </svg>

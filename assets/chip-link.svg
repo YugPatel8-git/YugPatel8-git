@@ -1,5 +1,5 @@
 <svg width="250" height="30" viewBox="0 0 250 30" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="uplink channels open"><title>uplink channels open</title>
-  <rect x="0.5" y="0.5" width="249" height="29" rx="4" fill="#101530" stroke="#00E5FF" stroke-opacity="0.45"/>
+  <rect x="0.5" y="0.5" width="249" height="29" rx="4" fill="#241236" stroke="#00E5FF" stroke-opacity="0.45"/>
   <circle cx="16" cy="15" r="4" fill="#22E06C">
     <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/>
   </circle>

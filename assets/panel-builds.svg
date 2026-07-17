@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 220" role="img" aria-labelledby="pbt pbd" preserveAspectRatio="xMidYMid meet">
 <title id="pbt">Active process dashboard</title><desc id="pbd">Terminal window with running build processes, load bars and throughput graph.</desc>
 <defs>
-<linearGradient id="pbbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131A36"/><stop offset="1" stop-color="#0B0E1A"/></linearGradient>
-<pattern id="pbgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4D8AFF" stroke-width="0.5" opacity="0.16"/></pattern>
+<linearGradient id="pbbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1640"/><stop offset="1" stop-color="#170b26"/></linearGradient>
+<pattern id="pbgr" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff8c42" stroke-width="0.5" opacity="0.16"/></pattern>
 <pattern id="pbsc" width="6" height="4" patternUnits="userSpaceOnUse"><rect width="6" height="1" fill="#00E5FF" opacity="0.05"/></pattern>
 <filter id="pbgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
@@ -10,39 +10,39 @@
 <path d="M15.5 1.5 H444.5 L458.5 15.5 V204.5 L444.5 218.5 H15.5 L1.5 204.5 V15.5 Z" fill="url(#pbgr)"/>
 <path d="M15.5 1.5 H444.5 L458.5 15.5 V204.5 L444.5 218.5 H15.5 L1.5 204.5 V15.5 Z" fill="url(#pbsc)"/>
 <path d="M15.5 1.5 H444.5" stroke="#00E5FF" stroke-width="3" opacity="0.35"/>
-<g fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.8">
+<g fill="none" stroke="#ff3ea5" stroke-width="1.5" opacity="0.8">
 <path d="M8 194 v18 M8 212 h18"/><path d="M452 26 v-18 M452 8 h-18"/>
 </g>
-<g transform="translate(14,4)"><rect width="98.80000000000001" height="16" fill="#0B0E1A" stroke="#00E5FF" stroke-width="1"/>
+<g transform="translate(14,4)"><rect width="98.80000000000001" height="16" fill="#170b26" stroke="#00E5FF" stroke-width="1"/>
 <text x="49.400000000000006" y="12" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="2" fill="#00E5FF" text-anchor="middle">PROC.MONITOR</text></g>
-<text x="446" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#4D8AFF" text-anchor="end" opacity="0.9">SYS.02//EXEC</text>
+<text x="446" y="15" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="1" fill="#ff8c42" text-anchor="end" opacity="0.9">SYS.02//EXEC</text>
 <rect x="434" y="206" width="6" height="6" fill="#22E06C"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
 <text x="428" y="212" font-family="Consolas, Courier New, monospace" font-size="7" fill="#22E06C" text-anchor="end" letter-spacing="1">ONLINE</text>
-<rect x="22" y="40" width="230" height="150" fill="#0B0E1A" stroke="#4D8AFF" stroke-width="1" opacity="0.9"/>
-<rect x="22" y="40" width="230" height="14" fill="#131A36" stroke="#4D8AFF" stroke-width="1"/>
+<rect x="22" y="40" width="230" height="150" fill="#170b26" stroke="#ff8c42" stroke-width="1" opacity="0.9"/>
+<rect x="22" y="40" width="230" height="14" fill="#2a1640" stroke="#ff8c42" stroke-width="1"/>
 <circle cx="31" cy="47" r="2.6" fill="#FF2D95"/><circle cx="40" cy="47" r="2.6" fill="#FFB020"/><circle cx="49" cy="47" r="2.6" fill="#22E06C"/>
 <g font-family="Consolas, Courier New, monospace" font-size="9" fill="#00E5FF">
 <text x="30" y="72">&gt; run stat-updates --live</text>
 <text x="30" y="90" fill="#22E06C">  ▸ match feed streaming…</text>
 <text x="30" y="108">&gt; run local-ai --experiment</text>
-<text x="30" y="126" fill="#7C3AED">  ▸ model session active</text>
+<text x="30" y="126" fill="#ff3ea5">  ▸ model session active</text>
 <text x="30" y="144">&gt; run automation --daemon</text>
-<text x="30" y="162" fill="#4D8AFF">  ▸ scripts scheduled ✓</text>
+<text x="30" y="162" fill="#ff8c42">  ▸ scripts scheduled ✓</text>
 </g>
 <rect x="30" y="170" width="8" height="10" fill="#00E5FF"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
 <g transform="translate(280,48)">
-<text x="0" y="0" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#4D8AFF">PROCESS LOAD</text>
+<text x="0" y="0" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#ff8c42">PROCESS LOAD</text>
 <g>
-<rect x="0" y="10" width="150" height="7" fill="#101530" stroke="#4D8AFF" stroke-width="0.6"/><rect x="0" y="10" height="7" fill="#00E5FF" width="112"><animate attributeName="width" values="96;126;112" dur="7s" repeatCount="indefinite"/></rect>
-<rect x="0" y="30" width="150" height="7" fill="#101530" stroke="#4D8AFF" stroke-width="0.6"/><rect x="0" y="30" height="7" fill="#7C3AED" width="80"><animate attributeName="width" values="64;98;80" dur="9s" repeatCount="indefinite"/></rect>
-<rect x="0" y="50" width="150" height="7" fill="#101530" stroke="#4D8AFF" stroke-width="0.6"/><rect x="0" y="50" height="7" fill="#22E06C" width="120"><animate attributeName="width" values="104;136;120" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="0" y="10" width="150" height="7" fill="#241236" stroke="#ff8c42" stroke-width="0.6"/><rect x="0" y="10" height="7" fill="#00E5FF" width="112"><animate attributeName="width" values="96;126;112" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="0" y="30" width="150" height="7" fill="#241236" stroke="#ff8c42" stroke-width="0.6"/><rect x="0" y="30" height="7" fill="#ff3ea5" width="80"><animate attributeName="width" values="64;98;80" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="0" y="50" width="150" height="7" fill="#241236" stroke="#ff8c42" stroke-width="0.6"/><rect x="0" y="50" height="7" fill="#22E06C" width="120"><animate attributeName="width" values="104;136;120" dur="8s" repeatCount="indefinite"/></rect>
 </g>
-<g font-family="Consolas, Courier New, monospace" font-size="7" fill="#4D8AFF" opacity="0.9">
+<g font-family="Consolas, Courier New, monospace" font-size="7" fill="#ff8c42" opacity="0.9">
 <text x="0" y="26">STAT UPDATES</text><text x="0" y="46">LOCAL AI</text><text x="0" y="66">AUTOMATION</text>
 </g>
-<path d="M0 84 h150" stroke="#4D8AFF" stroke-width="0.5" opacity="0.4"/>
+<path d="M0 84 h150" stroke="#ff8c42" stroke-width="0.5" opacity="0.4"/>
 <path d="M0 118 L18 108 36 120 54 100 72 112 90 96 108 116 126 104 150 110" fill="none" stroke="#00E5FF" stroke-width="1.5" filter="url(#pbgl)"/>
 <circle cx="150" cy="110" r="2.6" fill="#FF2D95"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="0" y="140" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#4D8AFF">THROUGHPUT ▸ NOMINAL</text>
+<text x="0" y="140" font-family="Consolas, Courier New, monospace" font-size="8" letter-spacing="2" fill="#ff8c42">THROUGHPUT ▸ NOMINAL</text>
 </g>
 </svg>
