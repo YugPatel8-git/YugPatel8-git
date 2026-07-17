@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Server stack</title><desc id="d">Pulsing server stack with staggered status lights.</desc>
-<g stroke-width="2"><rect x="26" y="22" width="68" height="22" rx="4" fill="#101530" stroke="#00E5FF"/>
-<rect x="26" y="50" width="68" height="22" rx="4" fill="#101530" stroke="#4D8AFF"/>
-<rect x="26" y="78" width="68" height="22" rx="4" fill="#101530" stroke="#7C3AED"/></g>
-<g><circle cx="38" cy="33" r="3" fill="#22E06C"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
-<circle cx="38" cy="61" r="3" fill="#00E5FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
-<circle cx="38" cy="89" r="3" fill="#FF2D95"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle></g>
-<g stroke-width="3" stroke-linecap="round"><line x1="54" y1="33" x2="86" y2="33" stroke="#00E5FF" opacity="0.6"/><line x1="54" y1="61" x2="86" y2="61" stroke="#4D8AFF" opacity="0.6"/><line x1="54" y1="89" x2="78" y2="89" stroke="#7C3AED" opacity="0.6"/></g>
-<line x1="48" y1="33" x2="48" y2="89" stroke="#00E5FF" stroke-width="1" opacity="0.3" stroke-dasharray="3 5"><animate attributeName="stroke-dashoffset" values="0;-16" dur="2s" repeatCount="indefinite"/></line></svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Cyber core</title><desc id="d">Rotating cyber core with counter-spinning rings.</desc>
-<g transform="translate(60 60)">
-<g><circle r="42" fill="none" stroke="#7C3AED" stroke-width="2" stroke-dasharray="10 14"/>
-<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/></g>
-<g><circle r="30" fill="none" stroke="#4D8AFF" stroke-width="2" stroke-dasharray="20 10"/>
-<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/></g>
-<path d="M0 -16 L14 -8 V8 L0 16 L-14 8 V-8 Z" fill="#101530" stroke="#00E5FF" stroke-width="2.5"/>
-<circle r="5" fill="#00E5FF"><animate attributeName="r" values="4;6;4" dur="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/></circle>
-</g></svg>

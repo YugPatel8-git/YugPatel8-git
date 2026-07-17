@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Shield</title><desc id="d">Cybersecurity shield with pulsing glow.</desc>
-<path d="M60 14 L98 28 V60 C98 84 82 100 60 108 C38 100 22 84 22 60 V28 Z" fill="#101530" stroke="#00E5FF" stroke-width="2.5"/>
-<path d="M60 14 L98 28 V60 C98 84 82 100 60 108 C38 100 22 84 22 60 V28 Z" fill="none" stroke="#00E5FF" stroke-width="6" opacity="0.15"><animate attributeName="opacity" values="0.05;0.3;0.05" dur="3.5s" repeatCount="indefinite"/></path>
-<path d="M46 58 L56 68 L76 46" fill="none" stroke="#22E06C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="30" y1="40" x2="90" y2="40" stroke="#00E5FF" stroke-width="1" opacity="0.3"><animate attributeName="y1" values="30;96;30" dur="6s" repeatCount="indefinite"/><animate attributeName="y2" values="30;96;30" dur="6s" repeatCount="indefinite"/></line></svg>

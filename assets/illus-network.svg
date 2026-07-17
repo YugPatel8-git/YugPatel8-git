@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d"><title id="t">Network</title><desc id="d">Network nodes exchanging animated data packets.</desc>
-<g stroke="#7C3AED" stroke-width="1.5" opacity="0.7"><path id="e1" d="M28 34 L60 60" fill="none"/><path id="e2" d="M92 30 L60 60" fill="none"/><path id="e3" d="M60 60 L34 92" fill="none"/><path id="e4" d="M60 60 L94 88" fill="none"/></g>
-<circle cx="28" cy="34" r="7" fill="#101530" stroke="#00E5FF" stroke-width="2"/><circle cx="92" cy="30" r="7" fill="#101530" stroke="#4D8AFF" stroke-width="2"/>
-<circle cx="60" cy="60" r="10" fill="#101530" stroke="#00E5FF" stroke-width="2.5"><animate attributeName="stroke-width" values="2.5;4;2.5" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="34" cy="92" r="7" fill="#101530" stroke="#FF2D95" stroke-width="2"/><circle cx="94" cy="88" r="7" fill="#101530" stroke="#7C3AED" stroke-width="2"/>
-<circle r="3" fill="#00E5FF"><animateMotion dur="3s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
-<circle r="3" fill="#4D8AFF"><animateMotion dur="4s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1"><mpath href="#e2"/></animateMotion></circle>
-<circle r="3" fill="#FF2D95"><animateMotion dur="3.5s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle></svg>
