@@ -40,4 +40,4 @@
 <rect x="238" y="156" width="130" height="5" fill="#241236" stroke="#ff8c42" stroke-width="0.6"/>
 <rect x="238" y="156" width="0" height="5" fill="#00E5FF"><animate attributeName="width" values="0;130" dur="6s" fill="freeze"/></rect>
 <text x="238" y="178" font-family="Consolas, Courier New, monospace" font-size="8" fill="#22E06C" letter-spacing="2">MATCH CONFIRMED ▸ ACCESS GRANTED</text>
-</svg>
+<defs><linearGradient id="duskf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f97b4f" stop-opacity="0"/><stop offset="1" stop-color="#f97b4f" stop-opacity="0.16"/></linearGradient></defs><g><rect x="6" y="174" width="448" height="40" fill="url(#duskf)"/><g transform="translate(6,214) scale(0.7467,1)"><path d="M0 0 L0 -8 H36 V-14 H54 V-8 H98 V-18 H128 V-8 H180 V-22 H204 V-8 H264 V-14 H304 V-6 H320 V-14 H378 V-8 H448 V-20 H482 V-8 H530 V-16 H556 V-8 H600 L600 0 Z" fill="#0c0616" opacity="0.4"/><rect x="108" y="-13" width="5" height="3" fill="#ff8c42" opacity="0.5"/><rect x="456" y="-15" width="5" height="3" fill="#00E5FF" opacity="0.45"/></g></g></svg>

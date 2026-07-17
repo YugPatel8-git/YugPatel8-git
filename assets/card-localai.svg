@@ -27,4 +27,4 @@
 <g stroke="#ff3ea5" stroke-width="1.5" fill="none" opacity="0.9"><path d="M8 28 v-14 M8 14 h14 M282 162 v14 M282 176 h-14"/></g>
 <rect x="140.0" y="182" width="10" height="6" fill="#241236" stroke="#00E5FF" stroke-width="1.2"/>
 <rect x="140.0" y="2" width="10" height="6" fill="#241236" stroke="#00E5FF" stroke-width="1.2"/>
-</svg>
+<defs><linearGradient id="duskf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f97b4f" stop-opacity="0"/><stop offset="1" stop-color="#f97b4f" stop-opacity="0.16"/></linearGradient></defs><g><rect x="6" y="144" width="278" height="40" fill="url(#duskf)"/><g transform="translate(6,184) scale(0.4633,1)"><path d="M0 0 L0 -8 H36 V-14 H54 V-8 H98 V-18 H128 V-8 H180 V-22 H204 V-8 H264 V-14 H304 V-6 H320 V-14 H378 V-8 H448 V-20 H482 V-8 H530 V-16 H556 V-8 H600 L600 0 Z" fill="#0c0616" opacity="0.4"/><rect x="108" y="-13" width="5" height="3" fill="#ff8c42" opacity="0.5"/><rect x="456" y="-15" width="5" height="3" fill="#00E5FF" opacity="0.45"/></g></g></svg>
